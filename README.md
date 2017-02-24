@@ -6,6 +6,7 @@ Resources for developing your frontend skills
 - http://learn.shayhowe.com/
 - https://frontendmasters.gitbooks.io/front-end-handbook-2017/content/
 - https://addyosmani.com/resources/essentialjsdesignpatterns/book/
+- https://github.com/getify/You-Dont-Know-JS
 - http://jsbooks.revolunet.com/
 
 ## React
