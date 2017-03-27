@@ -13,6 +13,7 @@ Resources for developing your frontend skills
 - https://facebook.github.io/react/
 - https://github.com/petehunt/react-howto
 - http://reactpatterns.com/
+- https://github.com/vasanthk/react-bits
 - https://medium.freecodecamp.com/the-5-things-you-need-to-know-to-understand-react-a1dbd5d114a3#.ngu2wxeob
 - https://tylermcginnis.com/react-aha-moments/
 - https://tylermcginnis.com/react-elements-vs-react-components/
